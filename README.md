@@ -1,6 +1,6 @@
 # taskify
 
-A new Flutter project.
+Release build is available in the release section
 
 ## Getting Started
 
