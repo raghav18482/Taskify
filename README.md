@@ -1,6 +1,6 @@
 # taskify
 
-Release build is available in the release section
+Release build is available in the release section.
 
 ## Getting Started
 
